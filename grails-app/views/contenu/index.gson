@@ -1,0 +1,8 @@
+import nfc.Contenu
+
+model {
+	Iterable<Contenu> contenuList
+}
+
+json tmpl.contenu(contenuList ?: [])
+

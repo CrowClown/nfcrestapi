@@ -1,0 +1,14 @@
+import nfc.Programme
+
+model {
+	Programme programme
+}
+
+json {
+	prog_id programme.id
+	prog_date programme.dateCreated
+	prog_desc programme.progDesc
+	contenu tmpl.'/contenu/contenu'(programme.contenu)
+}
+
+//json g.render(programme)

@@ -1,0 +1,7 @@
+import nfc.Programme
+
+model {
+	Programme programme
+}
+
+json tmpl.programme(programme)

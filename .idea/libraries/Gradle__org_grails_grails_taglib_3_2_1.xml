@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-taglib:3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.2.1/47be0234ada176f92d9d1bdb2a8edc710260919c/grails-taglib-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/3.2.1/a5bc810ea18c1749f88269b3a053c8cbebf1743f/grails-taglib-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

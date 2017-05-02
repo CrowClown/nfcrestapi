@@ -1,0 +1,15 @@
+import nfc.Contenu
+
+model {
+	Contenu contenu
+}
+
+json {
+	c_id contenu.id
+	c_type contenu.cType
+	c_titre contenu.cTitre
+	c_contenu contenu.cDesc
+	c_ordre contenu.cOrdre
+}
+
+//json g.render(contenu)

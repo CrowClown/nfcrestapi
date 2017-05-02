@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-datastore-web:6.0.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-web/6.0.2.RELEASE/5fe351f3a6e3bdb9131c9a1da11723dd1a9898c7/grails-datastore-web-6.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-web/6.0.2.RELEASE/739a43285577e9fa4dd4ad4336647b8dbeced240/grails-datastore-web-6.0.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

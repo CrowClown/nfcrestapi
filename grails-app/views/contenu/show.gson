@@ -1,0 +1,7 @@
+import nfc.Contenu
+
+model {
+	Contenu contenu
+}
+
+json tmpl.contenu(contenu)
